@@ -1,2 +1,2 @@
 # Homebrew SubZero
-❄️ Freezing macOS formulae for the Homebrew package manager
+❄️ Icy (freezing, frosty, and cold) macOS formulae for the Homebrew package manager
