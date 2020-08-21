@@ -1,11 +1,11 @@
 class Libcfu < Formula
   desc "Library of thread-safe functions and data structures"
   homepage "https://libcfu.sourceforge.io/"
-  url "https://github.com/dereklewis/libcfu/archive/v0.04a.tar.gz"
+  url "https://github.com/DerekNonGeneric/libcfu/archive/v0.04a.tar.gz"
   sha256 "8dbb78a3a383b811eb2bc5bf803235e55ce87288a3e9cefa5600d5732c46cb1f"
 
   head do
-    url "https://github.com/dereklewis/libcfu.git"
+    url "https://github.com/DerekNonGeneric/libcfu.git"
 
     depends_on "automake" => :build
     depends_on "autoconf" => :build
