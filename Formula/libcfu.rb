@@ -1,7 +1,7 @@
 class Libcfu < Formula
   desc "Library of thread-safe functions and data structures"
   homepage "https://libcfu.sourceforge.io/"
-  url "https://github.com/DerekNonGeneric/libcfu/archive/v0.04a.tar.gz"
+  url "https://github.com/OpenINF/libcfu/archive/v0.04a.tar.gz"
   sha256 "8dbb78a3a383b811eb2bc5bf803235e55ce87288a3e9cefa5600d5732c46cb1f"
 
   head do
