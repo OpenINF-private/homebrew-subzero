@@ -5,7 +5,7 @@ class Libcfu < Formula
   sha256 "8dbb78a3a383b811eb2bc5bf803235e55ce87288a3e9cefa5600d5732c46cb1f"
 
   head do
-    url "https://github.com/DerekNonGeneric/libcfu.git"
+    url "https://github.com/OpenINF/libcfu.git"
 
     depends_on "automake" => :build
     depends_on "autoconf" => :build
